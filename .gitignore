@@ -1,0 +1,6 @@
+# Never commit credentials or temporary exports.
+*.token
+*.secret
+*.tmp
+*-export.json
+
